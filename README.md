@@ -1,2 +1,2 @@
 # CS325_Algorithms
-Project files for algorithms
+Project files for algorithms class
